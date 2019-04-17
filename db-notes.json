@@ -1,0 +1,13 @@
+[{
+    "title": "test-title",
+    "body": "test-body"
+}, {
+    "title": "first note2",
+    "body": "added a new note2"
+}, {
+    "title": "list note",
+    "body": "added a new note to test list command"
+}, {
+    "title": "add note",
+    "body": "added a new note to test add command"
+}]
